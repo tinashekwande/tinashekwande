@@ -1,10 +1,45 @@
-- 👋 Hi, I’m @tinashekwande
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently advancing my knowledge in web programming
-- 💞️ I’m looking to collaborate on developing complex web alications
-- 📫 You can contact me on watsapp or call +27658084214
+# Hi there 👋, I'm Tinashe Kwande
 
-<!---
-tinashekwande/tinashekwande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I’m a Software Developer passionate about building modern web applications, automation tools, and AI-powered solutions. I enjoy creating clean, scalable, and user-focused digital experiences.
+
+## 💻 What I Do
+- Full Stack Web Development
+- Frontend UI/UX Design
+- AI & Automation Solutions
+- Software Development
+- Responsive Website Design
+
+## 🌱 Currently Learning
+- Machine Learning
+- AI Integration in Modern Applications
+- Scalable Backend Systems
+
+## 🛠️ Tech Stack
+- C++
+- Python
+- JavaScript
+- React
+- Next.js
+- Node.js
+- Tailwind CSS
+- Git & GitHub
+
+## 🌐 Portfolio & Website
+Visit my website:  
+[TK Technologies](https://www.tktecnologies.co.za/?utm_source=chatgpt.com)
+
+## 🤝 Open to Collaborate
+I’m open to collaborating on:
+- Web Applications
+- Startup Projects
+- AI Tools
+- Automation Systems
+- Creative Software Ideas
+
+## 📫 Contact Me
+- WhatsApp / Call: +27 68 074 0633
+
+---
+
+⭐ Always building, learning, and improving.
